@@ -1,0 +1,12 @@
+C:\Users\balaz\source\repos\StatProject\StatProjectLib\bin\Debug\net6.0\StatProjectLib.deps.json
+C:\Users\balaz\source\repos\StatProject\StatProjectLib\bin\Debug\net6.0\StatProjectLib.dll
+C:\Users\balaz\source\repos\StatProject\StatProjectLib\bin\Debug\net6.0\StatProjectLib.pdb
+C:\Users\balaz\source\repos\StatProject\StatProjectLib\obj\Debug\net6.0\StatProjectLib.csproj.AssemblyReference.cache
+C:\Users\balaz\source\repos\StatProject\StatProjectLib\obj\Debug\net6.0\StatProjectLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\balaz\source\repos\StatProject\StatProjectLib\obj\Debug\net6.0\StatProjectLib.AssemblyInfoInputs.cache
+C:\Users\balaz\source\repos\StatProject\StatProjectLib\obj\Debug\net6.0\StatProjectLib.AssemblyInfo.cs
+C:\Users\balaz\source\repos\StatProject\StatProjectLib\obj\Debug\net6.0\StatProjectLib.csproj.CoreCompileInputs.cache
+C:\Users\balaz\source\repos\StatProject\StatProjectLib\obj\Debug\net6.0\StatProjectLib.dll
+C:\Users\balaz\source\repos\StatProject\StatProjectLib\obj\Debug\net6.0\refint\StatProjectLib.dll
+C:\Users\balaz\source\repos\StatProject\StatProjectLib\obj\Debug\net6.0\StatProjectLib.pdb
+C:\Users\balaz\source\repos\StatProject\StatProjectLib\obj\Debug\net6.0\ref\StatProjectLib.dll
